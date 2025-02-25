@@ -11,7 +11,7 @@ html:
   baseurl              : https://migueltorrescosta.github.io
 
 repository:
-  url: https://github.com/migueltorrescosta/mloqs
+  url: https://github.com/migueltorrescosta
   branch: main
 
 launch_buttons:
