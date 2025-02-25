@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mloqs"
+version = "0.1.0"
+description = "Machine Learning of Quantum Systems"
+authors = ["Miguel Costa <miguelptcosta1995@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+seaborn = "^0.13.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
