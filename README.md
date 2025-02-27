@@ -5,3 +5,7 @@
 [![badge](https://img.shields.io/badge/Open-In%20Colab-579aca?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/migueltorrescosta/mloqs/)
 
 Machine Learning of Quantum Systems
+
+```shell
+poetry run jb build .
+```
