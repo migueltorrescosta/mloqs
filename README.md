@@ -7,5 +7,5 @@
 Machine Learning of Quantum Systems
 
 ```shell
-poetry run jb build .
+poetry run jupyter book start
 ```
