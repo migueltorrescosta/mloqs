@@ -2,6 +2,8 @@
 version: 1
 project:
   id: 6e8903a0-a763-4814-9346-13b90454f6c5
+  author: Miguel Pereira Torres Costa
+#  date: 2026-11-30
   title: Collapsed Wave
   description: Machine Learning applied to Atomtronic Circuits
   keywords:
@@ -17,6 +19,9 @@ project:
     - title: Study Cases
       children:
         - file: src/study_cases/00_harmonic_oscillator_state_preparation.ipynb
+    - title: Mathematics
+      children:
+        - file: src/math/orthogonal_polynomials.md
     - title: Miscellaneous
       children:
         - file: src/miscellaneous/glossary.md
